@@ -1,0 +1,7 @@
+<resources>
+    <string name="Contact_tracing">MyBluetooth</string>
+
+    <string name="ble_uuid">CDB7950D-73F1-4D4D-8E47-C090502DBD63</string>
+    <string name="ble_uuid1">CDB7</string>
+
+</resources>
