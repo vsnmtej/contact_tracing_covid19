@@ -18,8 +18,8 @@ The key functionalities that the application fulfills are below:
 # Feature List:
 
 * Advertising over bluetooth LE with minimised payload (less than 31 bytes) --- Done 
-  Mobile number (10 Bytes)
-  GeoLocation -  lat, long  (20 Bytes)
+  ** Mobile number (10 Bytes)
+  ** GeoLocation -  lat, long  (20 Bytes)
 * Discovering bluetooth LE advertisements.
 * Creating SQLLite DB Schema to store advertised data.
 ** Contact number (Primary Key)
